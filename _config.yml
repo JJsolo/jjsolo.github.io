@@ -1,5 +1,5 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
+title: Todo puede y debe comenzar aquí de una forma
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
