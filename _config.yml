@@ -5,11 +5,11 @@ description: A blog about lorem ipsum dolor sit amet
 url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Juan Jose 
-user_description: Esto espero que funcione porque de ser así ya se podra poner lo que yo quiera de forma que todo el mundo.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
+username: Juan José Solórzano Carrillo
+user_description: Post para guardar información sobre lo que hago día a día.
+user_title: Crando información para el futuro.
+email: juanjose.solorzano.c@gmail.com
+twitter_username: 
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 
